@@ -4,7 +4,7 @@
 SpaceLabs is a Java Swing Application designed to model the orbits of planets. With a huge amount of features, extreme customization, and accurate math, SpaceLabs can be used for a multitude of applications, such as classes and games.
 
 ## How to run
-The simplest way to run SpaceLabs is by running the Main.java file. To access the application, you can use the ZIP file, or download/clone the repository from GitHub [here](https://github.com/KrishnanS2006/SpaceLabs)
+The simplest way to run SpaceLabs is by running the Main.java file. To access the application, you can use the ZIP file, or download/clone the repository from GitHub [here](https://github.com/krishnans2006/SpaceLabs)
 You can then answer the questions that are presented to you and get started. More information and precise directions and recommendations can be found [here](https://docs.google.com/document/d/1qjTnt3Aw3jn5dt-yD9G_rNrQlMIP1gaxcdvkmKG-5cc/edit?usp=sharing)
 
 ## How it works
